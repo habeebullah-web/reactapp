@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          MY NAME IS ALI HAIDER
+        <p className='App-header'>
+          MY NAME IS ALI KHAN
         </p>
         <a
           className="App-link"
